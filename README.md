@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Hang Liu!
 
-<!--
-**Angusliuuu/Angusliuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently an undergraduate student at the **Department of Artificial Intelligence, School of Informatics, Xiamen University**.
 
-Here are some ideas to get you started:
+📬 Email: [liuhang1@stu.xmu.edu.cn](mailto:liuhang1@stu.xmu.edu.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Research Interests
+
+- 🎨 **Generative Models** (Diffusion Models)
+- 👁️ **Visual Backbone Networks** (ViT, CNNs, Hybrid architectures)
+
+---
+
+### 🧑‍💻 Currently Working On
+
+- Exploring cross-modal fusion strategies for multimodal transformers  
+- Experimenting with visual-language alignment in diffusion-based generation
+  
+💡 I believe **clarity** is the key to both research and coding.
+  
+Thanks for stopping by! Feel free to reach out or collaborate 😊
