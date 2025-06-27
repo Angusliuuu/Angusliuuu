@@ -8,7 +8,7 @@
 
 ### 🚀 Research Interests
 
-- 🎨 **Generative Models** (Diffusion Models)
+- 🎨 **Generative Models** (especially Diffusion Models)
 - 👁️ **Visual Backbone Networks** (ViT, CNNs, Hybrid architectures)
 
 ---
